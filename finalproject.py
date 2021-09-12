@@ -429,7 +429,7 @@ def interactive_prompt():
 if __name__ == "__main__":
 
     #### Only run below function if running the script for the first time and the marvel_characters.db file does not exist in the directory ####
-    create_database_table()
+    # create_database_table()
 
 
     for x, key in enumerate(character_dict.keys()):
@@ -450,7 +450,7 @@ if __name__ == "__main__":
 
 
         #### Only run below function if running the script for the first time and the marvel_characters.db file does not exist in the directory ####
-        populate_database()
+        # populate_database()
 
     connection.commit()
     cursor.close()

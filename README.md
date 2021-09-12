@@ -1,13 +1,13 @@
 # finalproject_SI507
 
 REQUIRED PACKAGES (shown via import statements in code):  
-import requests
-import time
-import hashlib
-import json
-from bs4 import BeautifulSoup
-import sqlite3
-import plotly.graph_objects as go
+import requests  
+import time  
+import hashlib  
+import json  
+from bs4 import BeautifulSoup  
+import sqlite3  
+import plotly.graph_objects as go  
 
 
 SPECIAL INSTRUCTIONS:

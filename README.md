@@ -1,6 +1,6 @@
 # finalproject_SI507
 
-REQUIRED PACKAGES (shown via import statements in code):__
+REQUIRED PACKAGES (shown via import statements in code):  
 import requests
 import time
 import hashlib

@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 
 SPECIAL INSTRUCTIONS:  
 If the marvel_characters.db file does not exist and the program is being run for the first time then only the below two functions should be run. Currently 
-these functions are commented out in the code to avoid running these functions by default.
+these functions are commented out in the code to avoid running these functions by default.  
 -create_database_table() - this function will newly create two tables in the .db file. If this funciton is run repeatedly then it will overwrite the 
                            data input on each run into the database. As such ** only run this function if the marvel_characters.db file does not exist  
 
